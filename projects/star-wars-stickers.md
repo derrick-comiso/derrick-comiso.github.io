@@ -10,7 +10,7 @@ labels:
 summary: A Java program made in Eclipse using Star Wars images as stickers.
 ---
 
-<img class="ui medium right floated rounded image" src="/images/spacebattle.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/spacebattle.jpg">
 
 Star Wars Stickers is a Java program made in Eclipse for the ICS111 course. It simulates a sticker book in which you are able to click the stickers at the bottom of the book and then be able to place them in the space above. Whenever a different sticker is selected and placed, a unique sound will play for that certain sticker.
 
