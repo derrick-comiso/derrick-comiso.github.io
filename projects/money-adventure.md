@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/coins.jpg
+image: images/coin.jpg
 title: Money Adventure
 permalink: projects/money adventure
 date: 2012
