@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/starwars.jpg
 title: Star Wars stickers
 permalink: projects/star-wars-stickers
 date: 2015
