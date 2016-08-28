@@ -22,17 +22,15 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "derrickallencomiso",
         "url": "http://linkedin.com/in/derrickallencomiso"
       },
     ]
   },
   "interests": [
     {
-      "name": "",
+      "name": "Information Technology",
       "keywords": [
-        "",
-        ""
       ]
     },
     {
@@ -69,10 +67,10 @@
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "Dean's List",
+      "date": "Spring 2014, Fall 2014, Spring 2015, Spring 2016",
+      "awarder": "University of Hawaii",
+      "summary": "Earned a semester grade point average of 3.5 or higher."
     },
   ],
   "references": [
