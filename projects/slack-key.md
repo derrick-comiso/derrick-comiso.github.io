@@ -6,7 +6,7 @@ title: Slack Key Guitar
 permalink: projects/slack-key
 date: 2015
 labels:
-  - Slack Key Guitar
+  - Slack key guitar
 summary: A music group project of arranging a rendition of Aloha Ka Manini.
 ---
 
