@@ -78,7 +78,8 @@ Not smart questions are often done with little to no thought process, creating t
 ```
 Q: How to create Android Application with Phonegap?
 
-How to Installing and configuring PhoneGap for Android mobile development with Eclipse. can i get sample phonegap projects with android.
+How to Installing and configuring PhoneGap for Android mobile development 
+with Eclipse. can i get sample phonegap projects with android.
 
 pls provide Phonegap tutorial or pdf files.
 ```
