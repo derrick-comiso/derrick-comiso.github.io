@@ -52,16 +52,20 @@ That said, the fact is that the question contains actually two interesting quest
 
 Why does sizeof(void()) is not legal?
 This is the actual question as from the title itself.
+
 Why does sizeof((void())) is not legal?
 This is the intended question of the OP.
+
 Answers below:
 
 void() in sizeof(void()) is interpreted as an expression that as function type and it is ill-formed as for 
 [5.3.3/1] (emphasis mine):
 The sizeof operator shall not be applied to an expression that has function or incomplete type
+
 (void()) in sizeof((void())) is an expression that has incomplete type void (note that sizeof is an unevaluated 
 context) and it is ill-formed as for [5.3.3/1] (emphasis mine):
 The sizeof operator shall not be applied to an expression that has function or incomplete type
+
 In both cases GCC compiles the code with a warning.
 ```
 
