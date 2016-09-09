@@ -16,19 +16,21 @@ StackOverflow is open to everyone, and is a great tool for getting great answers
 
 ```
 Q: Is sizeof(void()) a legal expression?
-From [5.3.3/1](http://eel.is/c++draft/expr.sizeof#1), I found that:
+From [5.3.3/1], I found that:
 The sizeof operator shall not be applied to an expression that has function or incomplete type
 
-From [3.9/5](http://eel.is/c++draft/basic.types#5) I found that:
+From [3.9/5] I found that:
 Incompletely-defined object types and cv void are incomplete types
 
-Anyway, for sizeof does not evaluate it's operands, I would have said that sizeof(void()) was a legal expression (actually GCC compiles it and the result is 1).
-On the other side, from [here](http://eel.is/c++draft/expr.sizeof), void is not mentioned while discussing sizeof, neither when the types having size 1 are mentioned, nor in the list of the ones having an implementation defined size.
+Anyway, for sizeof does not evaluate it's operands, I would have said that sizeof(void()) was a 
+legal expression (actually GCC compiles it and the result is 1).
+On the other side, from here, void is not mentioned while discussing sizeof, neither when the 
+types having size 1 are mentioned, nor in the list of the ones having an implementation defined size.
 
 The question is thus: is sizeof(void()) a legal expression?
 Is it guaranteed to have size equal to 1?
 Or is it a legal expression resulting in an UB and that's all?
 ```
 
-The inquirer already gives additional information as to why his answer would be wrong, thus giving any potential helpers an insight to his/her thinking process. Apart from the main question, he/she offers two other questions that could help clarify what kind of solution is being sought. As a result of this smart and informative question, five answers were given. The first is a simple explanation of the function type in question. Other answers referred to documentations, and others gave specific examples. All in all, this question succeeded in finding appropriate and relevant answers.
+The inquirer already gives additional information from online documentation as to why his answer would be wrong, thus giving any potential helpers an insight to his/her thinking process. Apart from the main question, he/she offers two other questions that could help clarify what kind of solution is being sought. As a result of this smart and informative question, five answers were given. The first is a simple explanation of the function type in question. Other answers referred to documentations, and others gave specific examples. All in all, this question succeeded in finding appropriate and relevant answers.
 
