@@ -12,7 +12,7 @@ labels:
 
 ## Coding from Java to Javascript
 
-Ever since coding in Java in Eclipse, having error checking was of great use for me in being able to complete my assignments. It taught me how to arrange my code neatly so that I can identify any errors immediately. Going into Javascript, I was a bit wary of how I would have to change the way I would write my code, but thankfully, with ESLint, my way of writing code has even gotten better. It is, for the most part, similar to how I code in Java, but with ESLint, I can identify any errors that are new to me that come with learning Javascript. 
+Ever since coding in Java in Eclipse, having error checking was of great use for me in being able to complete my assignments. It taught me how to arrange my code neatly so that I can identify any errors immediately. Going into Javascript, I was a bit wary of how I would have to change the way I would write my code, but thankfully, with ESLint, my way of writing code has gotten even better. It is, for the most part, similar to how I code in Java, but with ESLint, I can identify any errors that are new to me that come with learning Javascript. 
 
 ## Learning code through standards
 
