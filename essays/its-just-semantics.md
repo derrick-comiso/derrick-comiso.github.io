@@ -7,8 +7,8 @@ labels:
   - UI Frameworks
   - Semantic UI
   - IntelliJ
-  -HTML
-  -CSS
+  - HTML
+  - CSS
   - Software Engineering
 ---
 
