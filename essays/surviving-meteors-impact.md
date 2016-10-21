@@ -20,6 +20,6 @@ The Digits experience is probably both simultaneously the best and worst part ab
 
 ## The best of it
 
-Unlike the other practice WOD experiences, the Digits experience (not the pre-experience) started to make more sense of what Meteor is and how to use it. The Meteor example form and template were very understandable. It was all just a matter of shaping it into a contacts application to hold people's contact information. Previous experience helped too, such as with using Semantic UI and IntelliJ in general. Hold
+Unlike the other practice WOD experiences, the Digits experience (not the pre-experience) started to make more sense of what Meteor is and how to use it. The Meteor example form and template were very understandable. It was all just a matter of shaping it into a contacts application to hold people's contact information. Previous experience helped too, such as with using Semantic UI and IntelliJ in general. The Digits app building was very straightforward. I found the subscriptions part of the WOD very interesting, with the way data is added to Meteor. The client-server interaction was easy to understand, and the way the pages and the Javascript interacted with each other was clear in the way it was coded. Overall, Meteor grew on me, and as I started to learn more, the more I got comfortable. In the future, I hope to learn more as I start on my final project.
 
 
