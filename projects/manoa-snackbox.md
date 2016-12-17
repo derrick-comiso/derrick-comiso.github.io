@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/starwars.jpg
+image: images/snacks.jpg
 title: Manoa Snackbox
 permalink: projects/Manoa-snackbox
 date: 2016
