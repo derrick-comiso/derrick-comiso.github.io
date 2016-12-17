@@ -14,7 +14,7 @@ labels:
 summary: A Meteor app for providing students information on vending machines on UH campus.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/holmesbanner.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/HolmesBanner.jpg">
 
 Manoa Snackbox is a team-built application for the ICS 314 Software Engineering course. It allows students to login through the UH CAS system and view information about each vending machine on the UH campus. Information includes where on campus each vending machine is located, the products that are sold at each machine, the cost of each product, and additional nutritional facts. Developers are also able to login to add and edit products for each machine.
 
