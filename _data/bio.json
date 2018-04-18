@@ -55,6 +55,15 @@
         "CSS"
       ]
     },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Windows 7",
+        "Windows 10",
+        "Git/Github"
+      ]
+    },
   ],
   "education": [
     {
