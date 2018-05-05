@@ -67,10 +67,20 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii - West Oahu, Kapolei, HI",
+      "area": "Computer Electronics and Networking Technology (CENT)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
+      "endDate": "2015-5-01",
+      "gpa": "3.84",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "B.A.",
-      "startDate": "2013-09-01",
+      "startDate": "2015-09-01",
       "endDate": "2017-12-16",
       "gpa": "3.67",
       "courses": [
